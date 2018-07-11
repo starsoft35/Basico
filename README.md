@@ -39,11 +39,12 @@ Source: [Bumbu's simpe-redux](https://bumbu.github.io/simple-redux/)
 ## Attribution
 
 - [Onboarding Icons made by Freepik](http://www.freepik.com)
+- [Wallpaper used for Login Screen](https://hdwallsource.com/img/2014/5/abstract-wallpaper-26633-27347-hd-wallpapers.jpg)
 
 ## Resources
 
 - [React Native Cookbook - by Stan Bernshadskiy, Crysfel Villa](http://shop.oreilly.com/product/0636920090144.do)
 - [Network Indicator](https://medium.com/dailyjs/offline-notice-in-react-native-28a8d01e8cd0)
 - [Login Screen](https://github.com/dwicao/react-native-login-screen)
-- [Wallpaper used for Login Screen](https://hdwallsource.com/img/2014/5/abstract-wallpaper-26633-27347-hd-wallpapers.jpg)
 - [Color API Tutorial](https://www.youtube.com/watch?v=d2Mp66FFBgU)
+- [TodoList app with Realm in RN](https://www.youtube.com/watch?v=2sI64vaHF98&t=3s)
