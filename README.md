@@ -15,11 +15,12 @@ Source: [Bumbu's simpe-redux](https://bumbu.github.io/simple-redux/)
 - [x] Redux implementation
 - [x] Rename App `ScarletRocks` -> `ScarletDog`
 - [x] Replace `Navigator` -> `StackNavigator`
+- [ ] Incorporate realm database
 - [x] Redux Persist integration
 - [x] Implement Redux Axios Middleware
+- [x] Add i18n support
 - [x] Show network connectivity status
 - [x] Add an Onboarding screen
-- [x] Add i18n support
 - [ ] Integrate the login system
 - [ ] Drawer navigator
 - [x] NativeBase components screen (for themes)
