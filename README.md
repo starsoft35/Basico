@@ -22,8 +22,11 @@ Source: [Bumbu's simpe-redux](https://bumbu.github.io/simple-redux/)
 - [x] Show network connectivity status
 - [x] Add an Onboarding screen
 - [ ] Integrate the login system
+- [ ] Path navigator
 - [ ] Drawer navigator
 - [x] NativeBase components screen (for themes)
+- [ ] Profile screen
+- [ ] Add Error screen
 - [ ] Styling!
 - [ ] Housekeeping / Refactor code :/
 
